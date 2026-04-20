@@ -1,4 +1,4 @@
-# Life's Infinity Loop Profile
+# Life Infinity Loop Profile
 
 ## Domain Rotation
 
